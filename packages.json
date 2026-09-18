@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "updated_at": "2026-09-18",
+  "packages": [
+    {
+      "name": "باقة 80",
+      "network": "Vodafone",
+      "price": 80,
+      "internet": "8 GB",
+      "minutes": "1000 دقيقة",
+      "sms": "500 رسالة",
+      "recommended": false,
+      "other_network_minutes": 300,
+      "other_network_multiplier": 5,
+      "minute_after_bundle": 0.19,
+      "sms_after_bundle": 0.19,
+      "mb_after_bundle": 0.19
+    },
+    {
+      "name": "باقة 100",
+      "network": "Orange",
+      "price": 100,
+      "internet": "10 GB",
+      "minutes": "1200 دقيقة",
+      "sms": "500 رسالة",
+      "recommended": true,
+      "other_network_minutes": 300,
+      "other_network_multiplier": 5,
+      "minute_after_bundle": 0.19,
+      "sms_after_bundle": 0.19,
+      "mb_after_bundle": 0.19
+    },
+    {
+      "name": "باقة 120",
+      "network": "e& Egypt",
+      "price": 120,
+      "internet": "14 GB",
+      "minutes": "1500 دقيقة",
+      "sms": "750 رسالة",
+      "recommended": false,
+      "other_network_minutes": 500,
+      "other_network_multiplier": 5,
+      "minute_after_bundle": 0.19,
+      "sms_after_bundle": 0.19,
+      "mb_after_bundle": 0.19
+    },
+    {
+      "name": "باقة 150",
+      "network": "WE",
+      "price": 150,
+      "internet": "18 GB",
+      "minutes": "2000 دقيقة",
+      "sms": "1000 رسالة",
+      "recommended": false,
+      "other_network_minutes": null,
+      "other_network_multiplier": null,
+      "minute_after_bundle": 0.19,
+      "sms_after_bundle": 0.19,
+      "mb_after_bundle": 0.19
+    }
+  ]
+}
