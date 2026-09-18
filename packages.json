@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "updated_at": "2026-09-18",
   "packages": [
     {
@@ -43,6 +43,20 @@
       "minute_after_bundle": 0.19,
       "sms_after_bundle": 0.19,
       "mb_after_bundle": 0.19
+    },
+    {
+      "name": "لندى مخصوص",
+      "network": "WE",
+      "price": 0,
+      "internet": "تعمل الي هي عايزاه",
+      "minutes": "ما تكلم براحتها",
+      "sms": "ما تبعت عندك اعتراض !!",
+      "recommended": true,
+      "other_network_minutes": 0,
+      "other_network_multiplier": 0,
+      "minute_after_bundle": 0.0,
+      "sms_after_bundle": 0.0,
+      "mb_after_bundle": 0.0
     },
     {
       "name": "باقة 150",
