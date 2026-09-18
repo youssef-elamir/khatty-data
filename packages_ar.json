@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "updated_at": "2026-09-19",
+  "packages": [
+    {
+      "name": "سوبر كيكس",
+      "network": "WE",
+      "price": 29,
+      "internet": "",
+      "minutes": "",
+      "sms": "",
+      "description": "يوجد 20 وحده يمكن استخدامهم الدقيقة = دقيقة لكل الشبكات",
+      "recommended": false,
+      "other_network_minutes": 20,
+      "other_network_multiplier": 5,
+      "minute_after_bundle": 0.19,
+      "sms_after_bundle": 0.19,
+      "mb_after_bundle": 0.19
+    }
+  ]
+}

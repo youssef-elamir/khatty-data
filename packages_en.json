@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "updated_at": "2026-09-19",
+  "packages": [
+    {
+      "name": "Super Kicks",
+      "network": "WE",
+      "price": 29,
+      "internet": "",
+      "minutes": "",
+      "sms": "",
+      "description": "Includes 20 units that can be used at a rate of 1 minute per minute for all networks.",
+      "recommended": false,
+      "other_network_minutes": 20,
+      "other_network_multiplier": 5,
+      "minute_after_bundle": 0.19,
+      "sms_after_bundle": 0.19,
+      "mb_after_bundle": 0.19
+    }
+  ]
+}
