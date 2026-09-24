@@ -6,7 +6,6 @@
       "name": "سوبر كيكس",
       "network": "WE",
       "price": 29,
-      "type": "prepaid",
       "internet": "",
       "minutes": "",
       "sms": "",
@@ -16,7 +15,11 @@
       "other_network_multiplier": 5,
       "minute_after_bundle": 0.19,
       "sms_after_bundle": 0.19,
-      "mb_after_bundle": 0.19
+      "mb_after_bundle": 0.19,
+      "type": "prepaid",
+      "package_system": "units",
+      "units": "750",
+      "unit_description": "الوحدة يمكن استخدامها للدقيقة لكل الشبكات حسب نظام الباقة."
     }
   ]
 }
