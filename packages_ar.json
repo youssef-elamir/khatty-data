@@ -1,25 +1,34 @@
 {
-  "version": 3,
-  "updated_at": "2026-09-24",
+  "version": 4,
+  "updated_at": "2026-09-26",
   "packages": [
     {
       "name": "سوبر كيكس",
       "network": "WE",
       "price": 29,
+
+      "type": "prepaid",
+      "package_system": "units",
+
       "internet": "",
       "minutes": "",
       "sms": "",
+
+      "units": "20",
+      "unit_description": "الوحدة تستخدم للدقائق والرسائل حسب شروط الباقة.",
+
+      "ussd_code": "*707*29#",
+
       "description": "يوجد 20 وحده يمكن استخدامهم الدقيقة = دقيقة لكل الشبكات",
+
       "recommended": false,
+
       "other_network_minutes": 20,
       "other_network_multiplier": 5,
+
       "minute_after_bundle": 0.19,
       "sms_after_bundle": 0.19,
-      "mb_after_bundle": 0.19,
-      "type": "prepaid",
-      "package_system": "units",
-      "units": "750",
-      "unit_description": "يوجد 20 وحده يمكن استخدامهم الدقيقة = دقيقة لكل الشبكات."
+      "mb_after_bundle": 0.19
     }
   ]
 }
