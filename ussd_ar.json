@@ -1,1 +1,14 @@
 
+{
+  "version": 1,
+  "date": "2026-09-29",
+  "data": [
+    {
+      "name": "معرفة الرصيد",
+      "network": "WE",
+      "description": "بـ5 قروش للمرة الواحده",
+      "type": "prepaid",
+      "ussd_code": "*550#"
+    }
+  ]
+}
