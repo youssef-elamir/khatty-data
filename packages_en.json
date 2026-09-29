@@ -1,5 +1,5 @@
 {
-  "version": 8,
+  "version": 9,
   "updated_at": "2026-09-29",
   "packages": [
     {
@@ -530,7 +530,7 @@
     {
       "name": "Vodafone Plus 98",
       "network": "Vodafone",
-      "price": 37,
+      "price": 98,
       "internet": "4750 MB",
       "minutes": "",
       "sms": "",
